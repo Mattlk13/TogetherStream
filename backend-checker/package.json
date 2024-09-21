@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "request": "^2.79.0",
-    "nodemailer": "^2.7.2"
+    "nodemailer": "^6.9.15"
   },
   "engines": {
     "node": "7.x.x"
